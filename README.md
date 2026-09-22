@@ -60,7 +60,7 @@ A full-stack blogging platform built with the MERN stack.
 
 ### 📚 BookStore
 
-A React-based bookstore application built to practice modern frontend development.
+A full-stack bookstore application built with the MERN stack.
 
 **Features:**
 
