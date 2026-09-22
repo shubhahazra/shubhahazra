@@ -9,7 +9,7 @@ Currently, I'm focused on strengthening my **MERN Stack development skills** and
 * 🎓 **BCA** — Midnapore City College, under Vidyasagar University
 * 📅 Expected Graduation: **2027**
 * 💻 Interested in **Full Stack & Software Development**
-* 🌱 Currently improving my **MERN Stack **skills
+* 🌱 Currently improving my **MERN Stack** skills
 * 🚀 Building real-world projects to improve my development skills
 * 🎯 Looking for **internship and junior developer opportunities**
 
@@ -102,23 +102,11 @@ I'm continuously working on projects to improve my **problem-solving, backend de
 
 ---
 
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhahazra&show_icons=true&hide_border=true" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhahazra&layout=compact&hide_border=true" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p>
-  <a href="https://github.com/shubhahazra">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://shubha-hazra.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/shubha-hazra/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
