@@ -94,8 +94,6 @@ Node.js & Express
 MongoDB
     ↓
 REST APIs & Authentication
-    ↓
-Java + Spring Boot
 ```
 
 I'm continuously working on projects to improve my **problem-solving, backend development, API design, and full-stack development skills**.
